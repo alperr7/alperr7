@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alper</h1>
-<h3 align="center">Cybersecurity researcher | computer engineer</h3>
+<h3 align="center">Penetration Tester | Web Security & SOC | computer engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperr7&label=Profile%20views&color=0e75b6&style=flat" alt="alperr7" /> </p>
 
